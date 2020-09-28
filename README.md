@@ -1,5 +1,4 @@
-# CSE-573-Semantic-Web-Mining-2020-Spring
-# Group 14 - Movie Recommendation
+# Movie Recommender System using Deep Learning and Apache Spark
 
 1. The submission has 3 sub-directories CODE, DATA and Evaluations
 2. The CODE has 2 more sub-directories:
